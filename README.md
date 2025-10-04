@@ -171,5 +171,5 @@ This project demonstrates how Python-based data analytics can be leveraged to de
 
 **Author:** *Maria Egbuna*  
 **Project:** *Road Accidents Data Analysis with Python*  
-**License:** *MIT License*
-**Date:** October 04, 2025
+**License:** *MIT License*  
+**Date:** October 4, 2025
