@@ -111,6 +111,6 @@ Multivariate analysis examines how multiple factors interact simultaneously to i
 
 ---
 
-**Analyst:** Maria Egbuna 
-**Tools Used:** Python
-**Date:** October 4, 2025
+**Analyst:** Maria Egbuna  
+**Tools Used:** Python  
+**Date:** October 4, 2025  
