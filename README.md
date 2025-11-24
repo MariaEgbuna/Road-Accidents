@@ -1,34 +1,10 @@
 # 🚗 Road Accidents Data Analysis with Python
 
-## 📋 Project Overview
+## Overview
 
-This project analyzes a **road accidents dataset** using Python, with a focus on uncovering trends, patterns, and relationships between accident severity, environmental conditions, time factors, and road characteristics. The dataset was cleaned, standardized, and formatted for consistent and accurate analysis.
+This project analyzes a **road accidents dataset** using Python, with a focus on uncovering trends, patterns, and relationships between accident severity, environmental conditions, time factors, and road characteristics.
 
-The analysis includes:
-
-- **Data Cleaning & Preprocessing**
-- **Univariate Analysis**
-- **Bivariate Analysis**
-- **Multivariate Analysis**
-- **Key Insights & Conclusions**
-
----
-
-## 🧹 Data Cleaning and Preparation
-
-Before analysis, the dataset underwent several preprocessing steps to ensure quality and consistency:
-
-- Removed empty and duplicate rows.  
-- Corrected data entry errors (e.g., inconsistent category labels).  
-- Converted and standardized date/time columns.  
-- Renamed columns for better readability.  
-- Ensured categorical variables (e.g., Day of Week, Weather, Light Conditions) were uniformly formatted.  
-
-After cleaning, the dataset was loaded into a pandas DataFrame named **`RoadAccidentsData`** for analysis.
-
----
-
-## 🔍 Univariate Analysis
+## Univariate Analysis
 
 Univariate analysis explores individual variables to understand their distribution and basic statistics.
 
@@ -45,7 +21,7 @@ Univariate analysis explores individual variables to understand their distributi
 
 ---
 
-## 🔗 Bivariate Analysis
+## Bivariate Analysis
 
 Bivariate analysis explores the relationships between two variables, often revealing direct dependencies or trends.
 
@@ -86,49 +62,37 @@ Bivariate analysis explores the relationships between two variables, often revea
 
 ---
 
-## 🔀 Multivariate Analysis
+## Multivariate Analysis
 
 Multivariate analysis examines how multiple factors interact simultaneously to influence accident outcomes.
 
 ### Key Findings
 
 1. **Light & Weather Interaction**
+   
 ![Light and Weather Interaction](Images/Light&Weather.png)
    - Most accidents occur in daylight and fine weather.
    - Fatalities are more likely under **poor visibility** (darkness + fog).
 
-2. **Speed Limit & Road Surface Interaction**
+3. **Speed Limit & Road Surface Interaction**
+   
 ![Speed Limit & Road Surface Interaction](Images/SpeedvsRoad.png)
    - **High-speed + wet/icy surfaces** → significantly higher severity risk.
    - Dry roads dominate counts but not fatality proportions.
 
-3. **Day of Week vs Hour of Day**
+4. **Day of Week vs Hour of Day**
+   
 ![Day of Week vs Hour of Day](Images/DaysvsHours.png)
    - **Heatmap** shows rush-hour peaks (7–9 AM, 4–7 PM).
    - **Saturdays, Wednesdays, Thursdays and Fridays** have the most accidents.
    - Late-night accidents are fewer but more likely severe.
 
-4. **Grouped Summary**
-
+5. **Grouped Summary**
+   
+![Summary Table](Images/SummaryTable.png)
    - Average casualties highest during **weekends with adverse weather**.
    - Confirms human behavior (weekend travel) and environmental impact as joint factors.
-![Summary Table](Images/SummaryTable.png)
-
----
-
-## 📊 Statistical Summary
-
-| Variable | Type | Key Insight |
-|-----------|------|-------------|
-| Accident Severity | Categorical | Majority slight, minority serious/fatal |
-| Day of Week | Categorical | Peaks on Friday/Saturday |
-| Hour | Numeric | Peaks during rush hours |
-| Speed Limit | Numeric | High speed linked to higher severity |
-| Number of Casualties | Numeric | Mostly 1–2, increases with severity |
-| Weather Conditions | Categorical | Fine weather dominates; rain increases risk |
-| Road Surface | Categorical | Dry surfaces frequent; wet/icy surfaces severe |
-| Light Conditions | Categorical | Poor lighting increases severity |
-
+     
 ---
 
 ## 💡 Key Insights
@@ -153,23 +117,7 @@ Multivariate analysis examines how multiple factors interact simultaneously to i
 
 ---
 
-## 🛠️ Tools & Libraries Used
-
-- **Python**  
-- **Pandas** – Data manipulation and cleaning  
-- **NumPy** – Numerical analysis  
-- **Matplotlib / Seaborn** – Visualization and plotting  
-- **Jupyter Notebook / VSCode** – Development environment  
-
----
-
-## 📚 Summary
-
-This project demonstrates how Python-based data analytics can be leveraged to derive actionable insights from road safety data. Through systematic univariate, bivariate, and multivariate analyses, I identified **key contributing factors to accident frequency and severity**, enabling data-informed recommendations for **safer road networks and targeted policy interventions**.
-
----
-
-**Author:** *Maria Egbuna*  
-**Project:** *Road Accidents Data Analysis with Python*  
-**License:** *MIT License*  
+**Analyst:** Maria Egbuna  
+**Project:** Road Accidents Data Analysis with Python  
+**Tools Used:** Python
 **Date:** October 4, 2025
