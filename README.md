@@ -1,4 +1,4 @@
-# 🚗 Road Accidents Data Analysis with Python
+# Understanding Road Accidents 
 
 ## Overview
 
@@ -87,15 +87,9 @@ Multivariate analysis examines how multiple factors interact simultaneously to i
    - **Saturdays, Wednesdays, Thursdays and Fridays** have the most accidents.
    - Late-night accidents are fewer but more likely severe.
 
-5. **Grouped Summary**
-   
-![Summary Table](Images/SummaryTable.png)
-   - Average casualties highest during **weekends with adverse weather**.
-   - Confirms human behavior (weekend travel) and environmental impact as joint factors.
-     
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Visibility and Lighting**: Darkness and poor visibility are strongly linked to accident severity.
 - **Speed and Surface**: High-speed roads with poor surface conditions significantly increase fatal accidents.
@@ -105,7 +99,7 @@ Multivariate analysis examines how multiple factors interact simultaneously to i
 
 ---
 
-## 🧠 Conclusions
+## Conclusions
 
 - The **majority of accidents occur in normal daylight and good weather**, showing that frequency correlates more with exposure than with adverse conditions.
 - However, **severe accidents are concentrated** in conditions with **low visibility, high speed limits, and poor road surfaces**.
@@ -117,7 +111,6 @@ Multivariate analysis examines how multiple factors interact simultaneously to i
 
 ---
 
-**Analyst:** Maria Egbuna  
-**Project:** Road Accidents Data Analysis with Python  
+**Analyst:** Maria Egbuna 
 **Tools Used:** Python
 **Date:** October 4, 2025
