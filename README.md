@@ -1,12 +1,6 @@
-# Understanding Road Accidents 
+# Understanding Road Accidents in the UK 
 
-## Overview
-
-This project analyzes a **road accidents dataset** using Python, with a focus on uncovering trends, patterns, and relationships between accident severity, environmental conditions, time factors, and road characteristics.
-
-## Univariate Analysis
-
-Univariate analysis explores individual variables to understand their distribution and basic statistics.
+## General Overview
 
 ### Key Findings
 
@@ -20,10 +14,6 @@ Univariate analysis explores individual variables to understand their distributi
 - **Light Conditions**: Majority occurred in **daylight**, but **darkness with lights unlit** showed higher fatal accident ratios.
 
 ---
-
-## Bivariate Analysis
-
-Bivariate analysis explores the relationships between two variables, often revealing direct dependencies or trends.
 
 ### Visualizations and Insights
 
@@ -62,9 +52,7 @@ Bivariate analysis explores the relationships between two variables, often revea
 
 ---
 
-## Multivariate Analysis
-
-Multivariate analysis examines how multiple factors interact simultaneously to influence accident outcomes.
+## How do multiple factors interact simultaneously to influence accident outcomes.
 
 ### Key Findings
 
