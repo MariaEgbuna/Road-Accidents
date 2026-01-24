@@ -6,7 +6,7 @@
 
 - **Accident Severity**: Majority of accidents were classified as *Slight*, with *Serious* and *Fatal* being less frequent.
 - **Day of the Week**: Highest accident counts on **Friday and Saturday**, lowest on **Sunday**.
-- **Hour of the Day**: Two major peaks observed — **morning (7–9 AM)** and **evening (4–7 PM)** rush hours.
+- **Hour of the Day**: Two major peaks observed; **morning (7–9 AM)** and **evening (4–7 PM)** rush hours.
 - **Number of Casualties**: Most accidents involved 1–2 casualties; few had more than 3.
 - **Speed Limit**: Accidents most frequent on roads with **30–40 mph** limits.
 - **Weather Conditions**: Most accidents occurred in **fine weather**, reflecting higher traffic volume, but **rain** and **fog** increased accident severity.
