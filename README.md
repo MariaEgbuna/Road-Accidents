@@ -96,9 +96,3 @@
   - Enforcing stricter speed limits under poor weather.
   - Increasing awareness campaigns during weekends and peak hours.
 - Insights from this analysis can help policymakers and transport authorities **design safer traffic systems**, **target high-risk conditions**, and **reduce accident severity** through data-driven interventions.
-
----
-
-**Analyst:** Maria Egbuna  
-**Tools Used:** Python  
-**Date:** October 4, 2025  
